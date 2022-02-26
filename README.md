@@ -1,5 +1,7 @@
 # HaxeFlixel Shaders
 
+**MOST OF THESE SHADERS ARENT MINE!!! I'M JUST MAKING A COLLECTION SO IT'S EASIER TO FIND SHADERS!**
+
 Collection of GLSL shaders for HaxeFlixel, fetched from open source projects.
 
 If you want to contribute and add a shader, please make a PR.
