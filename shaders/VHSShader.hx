@@ -4,7 +4,7 @@ import flixel.system.FlxAssets.FlxShader;
  * Fetched from 'https://github.com/jobf/haxeflixel-vcr-effect-shader'
  * By jobf (https://github.com/jobf)
 **/
-class VhsShader extends FlxShader
+class VHSShader extends FlxShader
 {
 	@:glFragmentSource('
 		#pragma header
