@@ -1,10 +1,12 @@
-import flixel.system.FlxAssets.FlxShader;
+package shaders;
 
 /**
  * Fetched from 'https://github.com/jobf/haxeflixel-vcr-effect-shader'
- * By jobf (https://github.com/jobf)
+ * Ported to HaxeFlixel by "jobf" (https://github.com/jobf)
+ *
+ * Original source: https://www.shadertoy.com/view/ldjGzV
 **/
-class VHSShader extends FlxShader
+class VHSShader extends flixel.system.FlxAssets.FlxShader
 {
 	@:glFragmentSource('
 		#pragma header
