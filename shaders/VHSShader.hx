@@ -1,7 +1,7 @@
 package shaders;
 
 /**
- * Fetched from 'https://github.com/jobf/haxeflixel-vcr-effect-shader'
+ * Fetched from "https://github.com/jobf/haxeflixel-vcr-effect-shader"
  * Ported to HaxeFlixel by "jobf" (https://github.com/jobf)
  *
  * Original source: https://www.shadertoy.com/view/ldjGzV
