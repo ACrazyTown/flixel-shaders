@@ -1,17 +1,10 @@
-# HaxeFlixel Shaders
+# HaxeFlixel Shader Collection
+***Most of these shaders do NOT belong to me! They were fetched from open source projects and belong to their respective owners who have been credited at the start of the file.***
+##
+A collection of shaders that work with HaxeFlixel. If you want to contribute and add a shader, please make a pull request.
 
-**MOST OF THESE SHADERS ARENT MINE!!! I'M JUST MAKING A COLLECTION SO IT'S EASIER TO FIND SHADERS!**
-
-Collection of GLSL shaders for HaxeFlixel, fetched from open source projects.
-
-If you want to contribute and add a shader, please make a PR.
-
-All shaders will be have credit at the beginning of the file, linking to the GitHub repository where I got it from.
-
-**PLEASE CONTACT ME IF YOU'D LIKE TO REMOVE A SHADER YOU WROTE!**
+All shaders will have the original link to them in a comment at the start of the file. If your work is featured here and you wish for it to be removed please make a GitHub issue and I will remove it.
 
 ## Useful links
-
-[Learn OpenGL](https://learnopengl.com/)
-
-[OpenFL Shader Documentation](https://api.openfl.org/openfl/display/Shader.html)
+- [Learn OpenGL](https://learnopengl.com/)
+- [OpenFL Shader Documentation](https://api.openfl.org/openfl/display/Shader.html)
